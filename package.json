@@ -1,6 +1,6 @@
 {
   "name": "poppins-mock",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "mocks for mary-poppins",
   "main": "mock.js",
   "scripts": {
