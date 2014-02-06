@@ -11,5 +11,8 @@
     "poppins"
   ],
   "author": "Brian Ford",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "sinon": "~1.8.1"
+  }
 }
